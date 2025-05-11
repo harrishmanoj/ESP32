@@ -95,7 +95,3 @@ The system uses FreeRTOS tasks pinned to specific cores for efficiency:
 - The reset button is required to exit the OVERHEAT state.
 - The RGB LED uses PWM (LEDC) with 5kHz frequency and 10-bit resolution.
 - The system is designed for real-time operation with minimal delays.
-
-## License
-
-This project is licensed under the MIT License.
